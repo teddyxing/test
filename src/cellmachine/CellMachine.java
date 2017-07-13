@@ -53,7 +53,7 @@ public class CellMachine {
 						}
 					} else if ( numOfLive == 3 ) {
 						cell.reborn();
-						System.out.print("reborn");
+						System.out.print("reborn!");
 					}
 					System.out.println();
 				}
